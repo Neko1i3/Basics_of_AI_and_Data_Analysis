@@ -4,7 +4,7 @@ from IPython.display import display
 from pathlib import Path
 pd.set_option('display.max_colwidth', None)
 
-DATA = Path(r"C:\Users\asnguyen\Documents\Datasets\Zadanie Woda na Marsie\dane")
+DATA = Path("???")
 laz = pd.read_csv(DATA / 'laziki.txt', sep='\t', header=0)
 obs = pd.read_csv(DATA / 'obszary.txt', sep='\t', header=0)
 pom = pd.read_csv(DATA / 'pomiary.txt', sep='\t', header=0)
