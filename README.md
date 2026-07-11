@@ -13,3 +13,4 @@ I kept everything in Polish, since the original statements are all in this langu
 ## OAI Exercises
 
 Collection of my practice exercises done while learning from the Polish Olympiad of Artificial Intelligence's official course.
+Once again, many things are written in Polish.
